@@ -12,6 +12,6 @@ Como indica el texto, tendrás que escribir el nombre del producto para comprarl
 
 ![image](https://github.com/user-attachments/assets/eaf4fddc-38fe-44d1-a15c-9475ddb5eed9)
 
-Para terminar y recibir el total, escribes "Listo" (o "listo", "LISTO", etc)
+Para terminar y recibir el total, escribes "Listo" (o "listo", "LISTO", etc). Esto termina el programa
 
 ![image](https://github.com/user-attachments/assets/1c2efa6c-285c-4092-aac3-bf7b168e3543)
