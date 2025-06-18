@@ -1,6 +1,7 @@
 # Contexto
 
 En donde estudio se hizo una Mini Hackatón para crear un programa en Python sobre lo pedido en grupo, se pidió una calculadora básica y una tienda escolar.
+Integrantes: Martiniano (Yo), Lara, Ludmi, Agustina y Jere
 
 Ambos programas sirven para la versión **3.12.3** en adelante.
 
